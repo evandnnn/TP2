@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #5dd83e;
 	padding: 20px;
 }
 
@@ -88,8 +88,14 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #5dd83e;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+	text-align: center;
+}
+
+body
+{
+	font-family: sans-serif;
 }
